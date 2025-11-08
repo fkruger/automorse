@@ -1,0 +1,35 @@
+
+#training data
+data/
+
+#python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tool caches and reports
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# IDE/editor
+.idea/
+.vscode/
+
+# Environment variables / secrets
+.env
+.env.*
